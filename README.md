@@ -3,7 +3,7 @@
 # Hello World! 👋
 
 
-### Hi! I'm Cleyton Melo Web Development Student 👨🏽‍💻
+### Hi! I'm Cleyton Melo Web Development 👨🏽‍💻
 
 </div>
 

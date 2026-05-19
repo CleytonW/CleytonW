@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+👨🏽‍💻;Passionate+about+technology;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+about+technology;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,15 +36,14 @@ Welcome to my profile! I am a **Full-Stack Developer** with a passion for buildi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CleytonW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonW&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleytonW&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonW&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Atualizado o link do Heroku para o Demolab para resolver o erro das streaks -->
-  <img src="https://streak-stats.demolab.com/?user=CleytonW&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CleytonW&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---

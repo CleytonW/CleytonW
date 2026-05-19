@@ -36,14 +36,14 @@ Welcome to my profile! I am a **Full-Stack Developer** with a passion for buildi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleytonW&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonW&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleytonW&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonW&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CleytonW&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CleytonW&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---

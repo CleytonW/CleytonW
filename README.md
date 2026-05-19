@@ -4,17 +4,22 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+👨🏽‍💻;Passionate+about+technology;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+👨🏽‍💻;Passionate+about+technology;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 ### 👨🏽‍💻 About Me
-- 🔭 I’m currently working on **Full-Stack Development**
-- 🌱 I’m constantly learning more about **modern web technologies and architectures**
-- 💬 Ask me about **JavaScript, React, Node.js, and Java**
-- 📫 How to reach me: **[cleytonw@gmail.com](mailto:cleytonw@gmail.com)**
+
+Welcome to my profile! I am a **Full-Stack Developer** with a passion for building scalable, efficient, and user-friendly web applications. I love bridging the gap between elegant frontend interfaces and robust backend architectures.
+
+- 🚀 **Focus:** Developing full-stack solutions using the JavaScript ecosystem and Java technologies.
+- 💡 **Interests:** Software architecture, API design, database modeling, and clean code practices.
+- 🏗️ **Currently Working On:** Expanding my expertise in **Spring Boot** and modern React patterns.
+- 🌱 **Always Learning:** I'm currently diving deeper into cloud technologies and deployment strategies.
+- 🤝 **Open to:** Collaborations on open-source projects, networking, and innovative tech initiatives.
+- 📫 **How to reach me:** **[cleytonw@gmail.com](mailto:cleytonw@gmail.com)**
 
 ---
 
@@ -31,14 +36,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CleytonW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonW&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CleytonW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonW&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CleytonW&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Atualizado o link do Heroku para o Demolab para resolver o erro das streaks -->
+  <img src="https://streak-stats.demolab.com/?user=CleytonW&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
